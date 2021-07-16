@@ -1,4 +1,7 @@
-<h1 align="center"><b>🔥 Heys I.m Alexa  🔥</b></h1> 
+<h2> 🔥 Heys I.m Alexa  🔥 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+
+
+
 
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif"width="500" /> </a>
