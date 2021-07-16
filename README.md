@@ -1,4 +1,4 @@
-<h2><center> 🔥 Heys I.m Alexa  🔥 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h1 align="center"> 🔥 Heys I.m Alexa  🔥 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 
 
