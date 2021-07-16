@@ -16,7 +16,7 @@
 <!-- programming langs i work-->
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+
  
 
 
