@@ -1,16 +1,48 @@
-### Hi there 👋
+<h1 align="center"><b>🔥 Heys I.m Alexa  🔥</b></h1> 
 
-<!--
-**sisula/sisula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif"width="50" /> </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## <h1 align="center"> CEB5ACE3 </h1>
+
+
+
+
+
+<!-- programming langs i work-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+ 
+
+
+
+---
+ ___
+ 
+
+<p align="center"><img src="https://i.hizliresim.com/lhyw9kg.jfif" width="400"></a></p>
+
+
+---
+ ___
+ 
+
+
+
+<p align="center"><a href="https://t.me/DaisySupport_Official"><img src="https://telegra.ph/file/b11ff90ad6a02293fefaf.jpg" width="400"></a></p>
+
+---
+ ___
+
+
+
