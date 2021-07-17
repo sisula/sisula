@@ -8,8 +8,7 @@
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif"width="500" /> </a>
 </p>
 <!-- programming langs i work-->
-<p align="center">
-<p align="center"><img src="https://i.hizliresim.com/lhyw9kg.jfif" width="400"></a></p>
+
 
 
 
