@@ -9,16 +9,9 @@
 </p>
 <!-- programming langs i work-->
 <p align="center">
----
- ___
- 
-
 <p align="center"><img src="https://i.hizliresim.com/lhyw9kg.jfif" width="400"></a></p>
 
 
----
- ___
- 
 
 
 
