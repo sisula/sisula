@@ -10,7 +10,7 @@
    <p align='center'>
    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif"width="500" /> </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adiwajshing&label=Profile%20views&color=0e75b6&style=flat" alt="sisula" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackamda&label=Profile%20views&color=0e75b6&style=flat" alt="sisula" /> </p>
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
