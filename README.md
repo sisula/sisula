@@ -10,6 +10,8 @@
    <p align='center'>
    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif"width="500" /> </a>
 </p>
+
+
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
