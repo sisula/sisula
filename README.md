@@ -3,7 +3,8 @@
    <a href="https://github.com/sisula"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" /> </a>
 </p>   
 <br>
-<h4>🌱 I’m currently learning at Sabaragamuwa University Of Sri Lanka -   Faculty of Computing BSc (Hons) in Information Systems.</h4>
+🎓 Education
+<h4>🌱 Currently pursuing a BSc (Hons) in Information Systems at the Faculty of Computing, Sabaragamuwa University of Sri Lanka.</h4>
 <h4>🌱 I’m currently learning Python, Javascript, Web Development, Database Management, Cyber Security.</h4>
 
   <summary><b>My Github Stats</b></summary>
