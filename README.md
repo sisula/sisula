@@ -2,10 +2,12 @@
 <p align='center'>
    <a href="https://github.com/sisula"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" /> </a>
 </p>
-
+   
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <br>
-<h4>🌱 I’m currently learning JavaScript, Node.js, HTML, CSS, Python, SQL</h4>
+
+<h4>🌱 I’m currently learning at Sabaragamuwa University Of Sri Lanka -   Faculty of Computing BSc (Hons) in Information Systems.</h4>
+<h4>🌱 I’m currently learning Python, Javascript, Web Development, Database Management, Cyber Security</h4>
           
 ### Spotify Playing 🎧
 
