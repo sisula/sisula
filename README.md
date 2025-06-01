@@ -22,19 +22,4 @@ I'm always open to networking, collaboration, and new opportunities:
 
 ---
 
-### 🧩 Projects Gallery
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://greenhillellaresort.com/" target="_blank">
-        <img src="https://htkvjnfqsnxqfhvulebt.supabase.co/storage/v1/object/public/green-hill-ella-cloud/icon/Screenshot%202025-06-02%20at%2000.16.49.png" alt="Green Hill Ella Resort" width="200"/><br>
-        <b>Green Hill Ella Resort</b>
-      </a>
-      <p>Responsive hotel website with booking and contact features.</p>
-    </td>
-  </tr>
-</table>
-
-
 🌱 _Learning never stops – I believe in growing through curiosity, consistency, and collaboration._
