@@ -28,24 +28,10 @@ I'm always open to networking, collaboration, and new opportunities:
   <tr>
     <td align="center">
       <a href="https://greenhillellaresort.com/" target="_blank">
-        <img src="https://via.placeholder.com/200x120.png?text=Green+Hill+Ella" alt="Green Hill Ella Resort" width="200"/><br>
+        <img src="https://htkvjnfqsnxqfhvulebt.supabase.co/storage/v1/object/public/green-hill-ella-cloud/icon/Screenshot%202025-06-02%20at%2000.16.49.png" alt="Green Hill Ella Resort" width="200"/><br>
         <b>Green Hill Ella Resort</b>
       </a>
       <p>Responsive hotel website with booking and contact features.</p>
-    </td>
-    <td align="center">
-      <a href="https://example.com/project-2" target="_blank">
-        <img src="https://via.placeholder.com/200x120.png?text=Project+2" alt="Project 2" width="200"/><br>
-        <b>Project Title 2</b>
-      </a>
-      <p>Brief description of another project.</p>
-    </td>
-    <td align="center">
-      <a href="https://example.com/project-3" target="_blank">
-        <img src="https://via.placeholder.com/200x120.png?text=Project+3" alt="Project 3" width="200"/><br>
-        <b>Project Title 3</b>
-      </a>
-      <p>Brief description of a third project.</p>
     </td>
   </tr>
 </table>
