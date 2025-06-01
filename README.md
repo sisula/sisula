@@ -7,7 +7,7 @@
 <br>
 
 <h4>🌱 I’m currently learning at Sabaragamuwa University Of Sri Lanka -   Faculty of Computing BSc (Hons) in Information Systems.</h4>
-<h4>🌱 I’m currently learning Python, Javascript, Web Development, Database Management, Cyber Security</h4>
+<h4>🌱 I’m currently learning Python, Javascript, Web Development, Database Management, Cyber Security.</h4>
           
 ### Spotify Playing 🎧
 
