@@ -1,22 +1,25 @@
 # 👋 Hi, I'm Sisula Welgamage
 
 🎓 **Education**  
-Currently pursuing a **BSc (Hons) in Information Systems** at the **Faculty of Computing, Sabaragamuwa University of Sri Lanka**.
+I'm currently pursuing a **Bachelor of Science (Hons) in Information Systems** at the **Faculty of Computing, Sabaragamuwa University of Sri Lanka**.
 
-🛠️ **Currently Learning**  
-I'm actively developing my skills in:
+💻 **Areas of Focus**  
+I am passionate about building reliable, secure, and user-friendly applications. My current areas of interest and active learning include:
 - **Python** – scripting, automation, and backend development
-- **JavaScript** – frontend and full-stack web development
-- **Web Development** – HTML, CSS, and modern frameworks
-- **Database Management** – SQL and NoSQL systems
-- **Cybersecurity** – fundamentals of secure systems and ethical practices
+- **JavaScript** – frontend development and full-stack solutions
+- **Web Development** – responsive design using HTML, CSS, and modern frameworks
+- **Database Management** – designing and managing SQL and NoSQL databases
+- **Cybersecurity** – understanding secure systems and ethical best practices
 
-📫 **Connect with Me**  
-Feel free to reach out or follow my journey:
-- GitHub: [sisula](https://github.com/sisula)
-- LinkedIn: [your-linkedin-url]
-- Email: srwusc123@gmail.com
+🚀 **Projects**
+- 🌐 [Green Hill Ella Resort](https://greenhillellaresort.com/) – A modern, responsive website built for a resort in Ella, Sri Lanka. Developed with a focus on user experience, accessibility, and performance.
+
+📫 **Get in Touch**  
+I'm always open to networking, collaboration, and new opportunities:
+- GitHub: [sisula](https://github.com/sisula)  
+- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- Email: [srwusc123@gmail.com](mailto:srwusc123@gmail.com)
 
 ---
 
-🌱 I'm always open to learning new technologies and collaborating on exciting projects!
+🌱 _Learning never stops – I believe in growing through curiosity, consistency, and collaboration._
