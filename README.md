@@ -17,7 +17,7 @@ I am passionate about building reliable, secure, and user-friendly applications.
 📫 **Get in Touch**  
 I'm always open to networking, collaboration, and new opportunities:
 - GitHub: [sisula](https://github.com/sisula)  
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/sisula-welgamage)  
 - Email: [srwusc123@gmail.com](mailto:srwusc123@gmail.com)
 
 ---
