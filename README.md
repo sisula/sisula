@@ -3,7 +3,7 @@
 **Director at NodeTrends (Pvt) Ltd** | **Full-Stack & Systems Engineer** | **BSc (Hons) in Information Systems**
 
 🎓 **Education**  
-Pursuing a **Bachelor of Science (Hons) in Information Systems** at the **Faculty of Computing, Sabaragamuwa University of Sri Lanka** (Index: `23FIS0734`).
+Pursuing a **Bachelor of Science (Hons) in Information Systems** at the **Faculty of Computing, Sabaragamuwa University of Sri Lanka** 
 
 💼 **Leadership & Experience**
 - **Director – NodeTrends (Pvt) Ltd:** Leading software product development and customization, including Property Management Systems (PMS) and AI voice agents.
