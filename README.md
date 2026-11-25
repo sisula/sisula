@@ -18,7 +18,6 @@ Pursuing a **Bachelor of Science (Hons) in Information Systems** at the **Facult
 🚀 **Selected Projects**
 - 🏢 **NodeTrends Platforms:** Modular PMS solutions, AI voice agents, and custom business automation systems.
 - 🌐 [Green Hill Ella Resort](https://greenhillellaresort.com/) – Responsive hospitality website built with a focus on performance, accessibility, and guest experience.
-- 🕶️ [Kodu Yaathra](https://koduyaathra.vercel.app/) – Interactive WebAR event invitation web application deployed on Vercel.
 
 ---
 ### 🛠️ Tech Stack
